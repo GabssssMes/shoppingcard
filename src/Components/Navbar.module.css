@@ -1,0 +1,28 @@
+@font-face {
+  font-family: header;
+  src: url("../ShadowsIntoLight-Regular.ttf");
+}
+
+.navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  font-size: 20px;
+}
+.title {
+  font-size: 30px;
+  font-family: header;
+  padding-right: 30px;
+}
+.element {
+  color: white;
+  text-decoration: none;
+}
+.element:hover {
+  display: cursor;
+  scale: 1.1;
+}

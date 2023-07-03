@@ -1,0 +1,26 @@
+.card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.picture {
+  width: 200px;
+  height: auto;
+  border-bottom: 3px solid grey;
+}
+.price {
+  font-weight: bold;
+}
+.button {
+  border-radius: 10px;
+  padding: 2px;
+  background-color: grey;
+  color: white;
+}
+.button:hover {
+  cursor: pointer;
+  background-color: rgb(79, 79, 79);
+}

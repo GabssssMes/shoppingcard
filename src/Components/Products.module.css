@@ -1,0 +1,21 @@
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+.header {
+  background-color: rgb(0, 0, 0, 0.7);
+  color: white;
+  border-radius: 15px;
+  padding: 5px 15px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 1s;
+}
