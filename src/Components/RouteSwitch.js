@@ -57,7 +57,6 @@ const RouteSwitch = () => {
           <Navbar onClick={openSidebar}></Navbar>
           <Routes>
             <Route path="/" element={<Home></Home>}></Route>
-            <Route path="" element={<Home></Home>}></Route>
             <Route
               path="/products"
               element={
@@ -74,10 +73,7 @@ const RouteSwitch = () => {
                 ></ShoppingCart>
               }
             ></Route>
-            <Route
-              path="*"
-              element={<h1 className={style.notfound}>Side not found</h1>}
-            ></Route>
+            <Route path="*" element={<Home></Home>}></Route>
           </Routes>
         </BrowserRouter>
       </div>
