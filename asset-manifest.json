@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shoppingcard/static/css/main.a425de20.css",
+    "main.js": "/shoppingcard/static/js/main.be03b163.js",
+    "static/media/alexey-savchenko-Xe7BUe4uFBA-unsplash.jpg": "/shoppingcard/static/media/alexey-savchenko-Xe7BUe4uFBA-unsplash.1fe1670ed351f57e5de4.jpg",
+    "static/media/Swatch neon to the max pay.png": "/shoppingcard/static/media/Swatch neon to the max pay.d6fc202a5c321714ce47.png",
+    "static/media/Swatch blinded by neon.png": "/shoppingcard/static/media/Swatch blinded by neon.b75a73d75f6b3b6bb4bd.png",
+    "static/media/Swatch the purity of neon.png": "/shoppingcard/static/media/Swatch the purity of neon.54e29ddc36258a9ca03b.png",
+    "static/media/Swatch shades of neon.png": "/shoppingcard/static/media/Swatch shades of neon.0d6802c924d32f56f21e.png",
+    "static/media/Swatch blue grid.png": "/shoppingcard/static/media/Swatch blue grid.1de5ebbdd7b8212785a5.png",
+    "static/media/Swatch cobalt lagoon.png": "/shoppingcard/static/media/Swatch cobalt lagoon.cab1e5aa40bff96f9ea0.png",
+    "static/media/Swatch dark green irony.png": "/shoppingcard/static/media/Swatch dark green irony.217a4159e21227de80f2.png",
+    "static/media/Swatch copper time.png": "/shoppingcard/static/media/Swatch copper time.65bb8121e3874f04a183.png",
+    "static/media/Swatch sistem through again.png": "/shoppingcard/static/media/Swatch sistem through again.f3941f0fd22618c6f661.png",
+    "static/media/ShadowsIntoLight-Regular.ttf": "/shoppingcard/static/media/ShadowsIntoLight-Regular.e8c09384ff0643bf385d.ttf",
+    "static/media/Swatch night flight.png": "/shoppingcard/static/media/Swatch night flight.6f26665f5ecaaa535139.png",
+    "static/media/Swatch middlesteel.png": "/shoppingcard/static/media/Swatch middlesteel.453e0eef0c66d241ae2e.png",
+    "static/media/Swatch gradino.png": "/shoppingcard/static/media/Swatch gradino.e4231b433665fd8ff6b2.png",
+    "index.html": "/shoppingcard/index.html",
+    "main.a425de20.css.map": "/shoppingcard/static/css/main.a425de20.css.map",
+    "main.be03b163.js.map": "/shoppingcard/static/js/main.be03b163.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a425de20.css",
+    "static/js/main.be03b163.js"
+  ]
+}
