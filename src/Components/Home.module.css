@@ -1,21 +1,35 @@
 @font-face {
   font-family: slogan;
-  src: url();
+  src: url("../fonts/DancingScript-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: origin;
+  src: url("../fonts/Lugrasimo-Regular.ttf");
 }
 .home {
+  height: 80vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 50px;
+  margin: 10px;
 }
 .Slogan {
-  font-family: slogan;
-  font-weight: bold;
-  font-size: 50px;
+  max-width: 700px;
   background-color: rgb(0, 0, 0, 0.5);
   color: white;
   border-radius: 20px;
   padding: 0 20px;
-  margin-top: 30px;
+  margin: 10px 30px;
+}
+.saying {
+  font-family: slogan;
+  font-weight: bold;
+  font-size: 50px;
+}
+.origin {
+  font-family: origin;
+  font-weight: bold;
+  font-size: 25px;
 }
