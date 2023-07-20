@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/shoppingcard/static/css/main.a425de20.css",
-    "main.js": "/shoppingcard/static/js/main.d1676e0d.js",
+    "main.css": "/shoppingcard/static/css/main.fec50029.css",
+    "main.js": "/shoppingcard/static/js/main.12c12c9d.js",
     "static/media/alexey-savchenko-Xe7BUe4uFBA-unsplash.jpg": "/shoppingcard/static/media/alexey-savchenko-Xe7BUe4uFBA-unsplash.1fe1670ed351f57e5de4.jpg",
+    "static/media/DancingScript-VariableFont_wght.ttf": "/shoppingcard/static/media/DancingScript-VariableFont_wght.3e7e73f4e34e4945f363.ttf",
     "static/media/Swatch neon to the max pay.png": "/shoppingcard/static/media/Swatch neon to the max pay.d6fc202a5c321714ce47.png",
     "static/media/Swatch blinded by neon.png": "/shoppingcard/static/media/Swatch blinded by neon.b75a73d75f6b3b6bb4bd.png",
     "static/media/Swatch the purity of neon.png": "/shoppingcard/static/media/Swatch the purity of neon.54e29ddc36258a9ca03b.png",
@@ -16,12 +17,13 @@
     "static/media/Swatch night flight.png": "/shoppingcard/static/media/Swatch night flight.6f26665f5ecaaa535139.png",
     "static/media/Swatch middlesteel.png": "/shoppingcard/static/media/Swatch middlesteel.453e0eef0c66d241ae2e.png",
     "static/media/Swatch gradino.png": "/shoppingcard/static/media/Swatch gradino.e4231b433665fd8ff6b2.png",
+    "static/media/Lugrasimo-Regular.ttf": "/shoppingcard/static/media/Lugrasimo-Regular.d80bf32e05bbfd3f566f.ttf",
     "index.html": "/shoppingcard/index.html",
-    "main.a425de20.css.map": "/shoppingcard/static/css/main.a425de20.css.map",
-    "main.d1676e0d.js.map": "/shoppingcard/static/js/main.d1676e0d.js.map"
+    "main.fec50029.css.map": "/shoppingcard/static/css/main.fec50029.css.map",
+    "main.12c12c9d.js.map": "/shoppingcard/static/js/main.12c12c9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a425de20.css",
-    "static/js/main.d1676e0d.js"
+    "static/css/main.fec50029.css",
+    "static/js/main.12c12c9d.js"
   ]
 }
